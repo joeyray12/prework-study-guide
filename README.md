@@ -3,7 +3,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
 
 This project was to give an introductory lesson to the students starting their coding journey. We had created a basic web page to host the various topics that we would be utlizing while creating our study guide. This will allow me to have a guide to refer back to if any questions come up during the bootcamp. This had taught me several different uses for HTML, CSS and JavaScript as well as techniques that will be utilized more in depth as the class progresses.
 
